@@ -5,6 +5,7 @@ Hi
     特色（推广的一些亮点）
 ## 安装下载
 - 下载地址 https://github.com/2464lgy/2464-cache/releases
+- 为什么
 ## 快速使用
     简单接入的文档
 - [使用文档](./doc/use/README.md)
