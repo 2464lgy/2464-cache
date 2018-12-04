@@ -6,8 +6,8 @@ Hi
 ##安装下载
 ##快速使用
     简单接入的文档
-—— 使用文档
-—— 二次开发文档
+— [使用文档](./doc/use/README.md)
+— [二次开发文档](./doc/dev/README.md)
 ##交流&提问
     https://github.com/2464lgy/2464-cache/issues
 ##关于作者
